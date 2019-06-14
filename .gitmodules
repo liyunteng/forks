@@ -1,0 +1,9 @@
+[submodule "xx-net"]
+	path = XX-Net
+	url = https://github.com/XX-net/XX-Net
+[submodule "miredo"]
+	path = miredo
+	url = https://github.com/fgp/miredo
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh
