@@ -7,3 +7,12 @@
 [submodule "oh-my-zsh"]
 	path = oh-my-zsh
 	url = https://github.com/robbyrussell/oh-my-zsh
+[submodule "glibc"]
+	path = glibc
+	url = git://sourceware.org/git/glibc.git
+[submodule "binutils"]
+	path = binutils-gdb
+	url = git://sourceware.org/git/binutils-gdb.git
+[submodule "free-programming-books"]
+	path = free-programming-books
+	url = https://github.com/EbookFoundation/free-programming-books
