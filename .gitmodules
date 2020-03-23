@@ -10,9 +10,9 @@
 [submodule "glibc"]
 	path = glibc
 	url = git://sourceware.org/git/glibc.git
-[submodule "binutils"]
-	path = binutils-gdb
-	url = git://sourceware.org/git/binutils-gdb.git
 [submodule "free-programming-books"]
 	path = free-programming-books
 	url = https://github.com/EbookFoundation/free-programming-books
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
